@@ -46,11 +46,10 @@ python3 server.py --insecure --build
 Open: http://localhost:8888
 
 Default credentials:
-
-  Username   Password
-  ---------- ----------
-  admin        admin
-
+```
+  Username: admin        
+  Password: admin
+```
 ## 🛰️ Sandcat Agent Deployment
 
 1.  Start CALDERA.
