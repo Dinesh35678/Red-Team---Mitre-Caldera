@@ -2,26 +2,19 @@
 
 A quick guide to install and run MITRE CALDERA.
 
-## 1. Clone Repository
+# 1. Update the system
+sudo apt update
 
-``` bash
+# 2. Install system dependencies
+sudo apt install -y git python3-full python3-pip golang-go upx-ucl curl
+
+# 3. Clone the CALDERA repository
 git clone https://github.com/mitre/caldera.git --recursive
 cd caldera
-```
 
-## 2. Install Dependencies
-
-``` bash
-sudo apt update
-sudo apt install -y python3-full python3-pip golang-go upx-ucl curl
-```
-
-## 3. Create Virtual Environment
-
-``` bash
+# 4. Create and activate the Python virtual environment
 python3 -m venv venv
 source venv/bin/activate
-```
 
 ## 4. Install Python Packages
 
