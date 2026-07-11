@@ -50,3 +50,31 @@ Default credentials:
   Username   Password
   ---------- ----------
   admin        admin
+
+## 🛰️ Sandcat Agent Deployment
+
+1.  Start CALDERA.
+2.  Open **Agents → Sandcat**.
+3.  Generate the agent for Windows/Linux.
+4.  Execute it on the target.
+5.  Verify the agent checks in.
+
+## ⚔️ First Operation
+
+1.  Create an Adversary.
+2.  Create an Operation.
+3.  Select the Sandcat agent.
+4.  Launch.
+5.  Review links and facts.
+
+## 🗺️ MITRE ATT&CK Mapping
+
+CALDERA maps executed abilities to ATT&CK tactics such as: - Initial
+Access - Execution - Persistence - Discovery - Credential Access -
+Lateral Movement - Collection - Exfiltration
+
+## ⭐ Support
+
+If this guide helped you, consider giving the **MITRE CALDERA** repository a ⭐ on GitHub.
+
+Happy Hunting! 🛡️
