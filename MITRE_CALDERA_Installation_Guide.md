@@ -1,4 +1,4 @@
-# 🛡️ MITRE CALDERA Installation Guide (Ubuntu)
+# 🛡️ MITRE CALDERA Installation Guide (kali linux)
 
 A quick guide to install and run MITRE CALDERA.
 
@@ -49,4 +49,4 @@ Default credentials:
 
   Username   Password
   ---------- ----------
-  red        admin
+  admin        admin
